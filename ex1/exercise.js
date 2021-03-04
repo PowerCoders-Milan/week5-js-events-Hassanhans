@@ -6,7 +6,7 @@ var link = document.querySelector('a');
 var strong = document.querySelectorAll('strong');
 link.addEventListener('mouseover', function (){
     strong.forEach(function(strong){
-        strong.style.color = "yellow";
+        strong.style.color = "crimson";
     })
 })
 link.addEventListener('mouseover',function boldWords(){
