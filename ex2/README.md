@@ -1,8 +1,11 @@
 # Screensize
 
-Write a JavaScript program to get the width and height of the window (any time the window is resized).
+Write a JavaScript program to get the width and height of the window
+ (any time the window is resized).
 
-Then write the sizes in the p element in a nice format ("The window is x pixels" or similar).
+Then write the sizes in the p element 
+in a nice format 
+("The window is x pixels" or similar).
 
 # Extra
 
